@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd1c9bba8ef7d507",
+        "id": "a135a9b5292720dd",
         "type": "tabs",
         "children": [
           {
-            "id": "f14623fa388e5bfe",
+            "id": "a9666edb19a2249c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ca17c221dcd81129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Math.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Math.md",
+                "file": "AdvancedDataStructures/1. Introduction to Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Math.md",
+                "file": "AdvancedDataStructures/1. Introduction to Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Math.md"
+                "file": "AdvancedDataStructures/1. Introduction to Algorithms.md"
               }
             }
           }
@@ -159,10 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca17c221dcd81129",
+  "active": "a9666edb19a2249c",
   "lastOpenFiles": [
-    "AdvancedDataStructures/1. Introduction to Algorithms.md",
+    "AdvancedComputerNetworks/1.3 Network Core.md",
     "Algorithms/Math.md",
+    "AdvancedComputerNetworks/References/ComputerNetworksSystemsApproach.pdf",
+    "AdvancedComputerNetworks/References/ComputerNetworksTopDownAppraoch6thEdition.pdf",
+    "AdvancedComputerNetworks/References/ComputerNetworksTopDownApproach8thEdition.pdf",
+    "AdvancedComputerNetworks/References/ComputerNetworksTopDownApproach.pdf",
+    "AdvancedComputerNetworks/1.2 Network Edge and Physical media.md",
+    "AdvancedDataStructures/1. Introduction to Algorithms.md",
+    "AdvancedComputerNetworks/Attachments/acn_ffth.png",
+    "AdvancedComputerNetworks/Attachments/2024-08-05-095826_hyprshot.png",
+    "AdvancedComputerNetworks/Attachments/acn_dsl.png",
+    "AdvancedComputerNetworks/Attachments/acn_cable.png",
+    "AdvancedComputerNetworks/Attachments",
+    "AdvancedComputerNetworks/acn_dsl.png",
+    "AdvancedComputerNetworks/acn_cable.png",
+    "AdvancedComputerNetworks/1.1 Introduction to Computer Networks.md",
     "AdvancedComputerNetworks/References/References.md",
     "FoundationsOFMachineLearning/1. Introduction to Machine Learning.md",
     "FoundationsOFMachineLearning/References/-Jiawei-Han,-Micheline-Kamber,-Jian-Pei--Data-Mini(z-lib.org).pdf",
@@ -170,19 +171,12 @@
     "FoundationsOFMachineLearning/References/Machine - Learning - Tom Mitchell.pdf",
     "FoundationsOFMachineLearning/References/Bishop - Pattern Recognition And Machine Learning - Springer  2006.pdf",
     "Mathematics/ReferenceBooks/IntroductionToLinearAlgebra.pdf",
-    "AdvancedComputerNetworks/References/Computer Networks -A Systems Approach 5th Edition.pdf",
-    "AdvancedComputerNetworks/References/Computer Networking - A Top-Down Approach Featuring the Internet ,6th.pdf",
-    "AdvancedDataStructures/References/DSABookByAlfredAho.pdf",
-    "AdvancedDataStructures/References/fundamentalsof-computer-algorithms-by-ellis-horowitz.pdf",
-    "AdvancedDataStructures/ReferenceBooks/DataStructures.pdf",
     "Mathematics/Mathematical Induction.md",
     "Algorithms/Greedy algorithms.md",
     "Algorithms/Dynamic Programming Algorithms.md",
     "Algorithms/Two pointers.md",
     "FoundationsOFMachineLearning/Syllabus.md",
-    "AdvancedComputerNetworks/1.2 Network Edge and Network Core.md",
     "Mathematics/Matrix inverse.md",
-    "AdvancedComputerNetworks/1.1 Introduction to Computer Networks.md",
     "AdvancedDataStructures/Syllabus/References.md",
     "AdvancedComputerNetworks/Syllabus/Syllabus.md",
     "AdvancedDataStructures/Syllabus/Syllabus.md",
