@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35ec4a41672883f8",
+        "id": "c52a73d1ff21fb16",
         "type": "tabs",
         "children": [
           {
-            "id": "00dfc9e33b3f1632",
+            "id": "bff53c209cf96346",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cd8112fa699842f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FoundationsOFMachineLearning/2.2 Naive Bayes Classifier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdvancedComputerNetworks/2.3 Application Layer - HTTP.md",
+                "file": "FoundationsOFMachineLearning/2.2 Naive Bayes Classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AdvancedComputerNetworks/2.3 Application Layer - HTTP.md",
+                "file": "FoundationsOFMachineLearning/2.2 Naive Bayes Classifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AdvancedComputerNetworks/2.3 Application Layer - HTTP.md"
+                "file": "FoundationsOFMachineLearning/2.2 Naive Bayes Classifier.md"
               }
             }
           }
@@ -146,15 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00dfc9e33b3f1632",
+  "active": "8cd8112fa699842f",
   "lastOpenFiles": [
-    "AdvancedComputerNetworks/2.1 Network Application Architecture.md",
-    "AdvancedComputerNetworks/2.2 Sockets.md",
-    "AdvancedComputerNetworks/2.3 Application Layer - HTTP.md",
-    "FoundationsOFMachineLearning/2.2 Bayes Classifier.md",
-    "FoundationsOFMachineLearning/1. Introduction to Machine Learning.md",
-    "FoundationsOFMachineLearning/2.1 Classification - KNN & Decision Trees.md",
     "AdvancedComputerNetworks/References/References.md",
+    "AdvancedComputerNetworks/2.3 Application Layer - HTTP.md",
+    "FoundationsOFMachineLearning/2.1 Classification - KNN & Decision Trees.md",
+    "FoundationsOFMachineLearning/2.2 Naive Bayes Classifier.md",
+    "FoundationsOFMachineLearning/Attachments",
+    "FoundationsOFMachineLearning/Attachments/entropy.png",
+    "AdvancedComputerNetworks/2.2 Sockets.md",
+    "AdvancedComputerNetworks/2.1 Network Application Architecture.md",
+    "FoundationsOFMachineLearning/1. Introduction to Machine Learning.md",
     "AdvancedComputerNetworks/1.4 Evaluating Network Performance.md",
     "AdvancedDataStructures/1.3 Correctness of an Algorithm.md",
     "FoundationsOFMachineLearning/2. ClassificationAlgorithms",
@@ -182,7 +197,6 @@
     "AdvancedComputerNetworks/Attachments/2024-08-05-095826_hyprshot.png",
     "AdvancedComputerNetworks/Attachments/acn_dsl.png",
     "AdvancedComputerNetworks/Attachments/acn_cable.png",
-    "AdvancedComputerNetworks/Attachments",
     "AdvancedComputerNetworks/acn_dsl.png",
     "AdvancedComputerNetworks/acn_cable.png",
     "Mathematics/Mathematical Induction.md",

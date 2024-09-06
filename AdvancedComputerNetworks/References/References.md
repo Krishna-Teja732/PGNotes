@@ -14,3 +14,8 @@
 #### 2.2 Socket Programming
 - [Programming in UNIX sockets FAQ](http://www.softlab.ntua.gr/facilities/documentation/unix/unix-socket-faq/unix-socket-faq.html#toc2) 
 - [Beej's Network programming guide](https://beej.us/guide/)
+#### 2.3 HTTP
+- [HTTP 1.1 drawbacks](https://www.tunetheweb.com/blog/why-do-we-need-http2/)
+- [Core Web vitals](https://web.dev/articles/vitals) : Official website
+- [Core Web vitals explained](https://almanac.httparchive.org/en/2022/performance) 
+- [High performance browser networking](https://hpbn.co/)
