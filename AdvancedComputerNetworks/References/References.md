@@ -14,6 +14,9 @@
 #### 2.2 Socket Programming
 - [Programming in UNIX sockets FAQ](http://www.softlab.ntua.gr/facilities/documentation/unix/unix-socket-faq/unix-socket-faq.html#toc2) 
 - [Beej's Network programming guide](https://beej.us/guide/)
+- Raw sockets
+	- [Raw sockets baeldung](https://www.baeldung.com/cs/raw-sockets)
+	- [Raw sockets open source for you](https://www.opensourceforu.com/2015/03/a-guide-to-using-raw-sockets/) 
 #### 2.3 HTTP
 - [HTTP 1.1 drawbacks](https://www.tunetheweb.com/blog/why-do-we-need-http2/)
 - [Core Web vitals](https://web.dev/articles/vitals) : Official website
