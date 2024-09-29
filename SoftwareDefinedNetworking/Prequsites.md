@@ -1,0 +1,8 @@
+- Networking 
+- data representation(knowledge graphs)
+- configuring a sdn
+- Ryu controller, hands on NLP 
+- Digital Twin networks
+	- What it is and it's purpose
+	- Types: Emulation based, dbms based, data representation based 
+	- Read specifically about knowledge graph based dtn

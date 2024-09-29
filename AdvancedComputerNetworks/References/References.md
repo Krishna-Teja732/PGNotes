@@ -1,4 +1,4 @@
-### 1. Reference books
+## 1. Reference books
 - Computer Networking: A top down approach. Jim Kurose
 - [Computer Networks: A systems approach. Larry L Peterson](https://book.systemsapproach.org/)
 - TCP/IP Protocols: Kevin fall and Richard Steven
@@ -22,3 +22,6 @@
 - [Core Web vitals](https://web.dev/articles/vitals) : Official website
 - [Core Web vitals explained](https://almanac.httparchive.org/en/2022/performance) 
 - [High performance browser networking](https://hpbn.co/)
+#### 2.4 CDN
+- Netflix AWS servies [AWS re:Invent Part 2](https://www.youtube.com/watch?v=-mL3zT1iIKw) [AWS re:invent part 2](https://www.youtube.com/watch?v=95nfMj4PVDA) [Netflix CDN](https://www.youtube.com/watch?v=tbqcsHg-Q_o)
+- [Netflix Open connect](./Papers/Open-Connect-Overview.pdf)

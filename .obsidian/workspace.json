@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bce0b334d019facd",
+            "id": "a4012db359e762a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AdvancedDataStructures/1.3 Correctness of an Algorithm.md",
+                "file": "Doubts.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,14 +56,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "8b9759fc127561c4",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -85,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdvancedDataStructures/1.3 Correctness of an Algorithm.md",
+                "file": "Doubts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AdvancedDataStructures/1.3 Correctness of an Algorithm.md",
+                "file": "Doubts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AdvancedDataStructures/1.3 Correctness of an Algorithm.md"
+                "file": "Doubts.md"
               }
             }
           }
@@ -139,60 +131,57 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "bce0b334d019facd",
+  "active": "a4012db359e762a5",
   "lastOpenFiles": [
-    "Doubts.md",
-    "AdvancedDataStructures/1.3 Correctness of an Algorithm.md",
-    "AdvancedDataStructures/2.1 Divide and Conquer.md",
-    "Algorithms/Two pointers.md",
-    "Algorithms/Math.md",
-    "Algorithms/Greedy algorithms.md",
-    "Algorithms/Dynamic Programming Algorithms.md",
-    "AdvancedDataStructures/Images",
-    "AdvancedDataStructures/Images/masters_theorem.png",
-    "AdvancedDataStructures/1.2 Analyzing Algorithms.md",
-    "AdvancedDataStructures/1.1 Introduction to Algorithms.md",
-    "FoundationsOFMachineLearning/1. Introduction to Machine Learning.md",
-    "AdvancedComputerNetworks/1.1 Introduction to Computer Networks.md",
-    "FoundationsOFMachineLearning/2.3 Support Vector Machines.md",
-    "AdvancedDataStructures/Syllabus/References.md",
-    "FoundationsOFMachineLearning/References/support_vector_machines_succinctly.pdf",
-    "FoundationsOFMachineLearning/2.1 Classification - KNN & Decision Trees.md",
-    "AdvancedComputerNetworks/1.4 Evaluating Network Performance.md",
-    "AdvancedComputerNetworks/2.1 Network Application Architecture.md",
-    "AdvancedComputerNetworks/2.2 Application Layer - HTTP.md",
+    "AdvancedComputerNetworks/2.4. Application Layer - Email.md",
+    "SoftwareDefinedNetworking/Prequsites.md",
+    "AdvancedComputerNetworks/2.5 Application Layer - DNS.md",
+    "AdvancedComputerNetworks/2.6 Application Layer - P2P and CDN.md",
+    "AdvancedComputerNetworks/References/References.md",
+    "AdvancedComputerNetworks/References/Papers/Open-Connect-Overview.pdf",
+    "Attachments/Papers/Open-Connect-Overview.pdf.md",
+    "Attachments/Papers",
+    "Attachments/Open-Connect-Overview.pdf.md",
+    "Attachments",
+    "AdvancedComputerNetworks/References/Papers/Open-Connect-Overview.pdf.crdownload",
+    "AdvancedComputerNetworks/References/Papers",
+    "AdvancedComputerNetworks/References/Papers/mockapetris-dns-sigcomm88.pdf",
+    "AdvancedComputerNetworks/References/mockapetris-dns-sigcomm88.pdf.crdownload",
+    "AdvancedComputerNetworks/3.1 Transport Layer.md",
     "AdvancedComputerNetworks/1.3 Network Core.md",
     "AdvancedComputerNetworks/1.2 Network Edge and Physical media.md",
-    "AdvancedComputerNetworks/2.3 Socket API references.md",
-    "AdvancedComputerNetworks/2.4 Mail Transfer Protocols.md",
-    "FoundationsOFMachineLearning/2.2 Naive Bayes Classifier.md",
+    "AdvancedComputerNetworks/1.1 Introduction to Computer Networks.md",
+    "AdvancedComputerNetworks/2.2 Application Layer - HTTP.md",
+    "Untitled.md",
+    "Algorithms/Dynamic Programming Algorithms.md",
+    "FoundationsOFMachineLearning/Syllabus.md",
+    "Algorithms/Greedy algorithms.md",
+    "Algorithms/Math.md",
+    "Algorithms/Misc.md",
+    "Algorithms/Two pointers.md",
     "AdvancedDataStructures/1.4 Red Black Trees.md",
-    "Mathematics/Mathematical Induction.md",
-    "Mathematics/Matrix inverse.md",
-    "FoundationsOFMachineLearning/References/References.md",
+    "SoftwareDefinedNetworking/Papers/Digital_Twin_Networks_A_Survey.pdf",
+    "SoftwareDefinedNetworking/Papers/Digital_Twin_Networks_A_Survey.pdf.crdownload",
+    "SoftwareDefinedNetworking/Papers/sdn_comprehensive_review.pdf",
+    "AdvancedDataStructures/2.1 Divide and Conquer.md",
+    "AdvancedDataStructures/1.3 Correctness of an Algorithm.md",
+    "AdvancedDataStructures/1.2 Analyzing Algorithms.md",
+    "AdvancedDataStructures/1.1 Introduction to Algorithms.md",
+    "AdvancedDataStructures/Syllabus/Syllabus.md",
+    "AdvancedComputerNetworks/2.3 Socket API references.md",
+    "AdvancedDataStructures/Attachments/masters_theorem.png",
     "FoundationsOFMachineLearning/Attachments/hessian_matrix.png",
     "FoundationsOFMachineLearning/Attachments/rbf_kernel.png",
     "FoundationsOFMachineLearning/Attachments/kernel_svm_opt_fn.png",
     "FoundationsOFMachineLearning/Attachments/soft_margin_opt_fn.png",
     "FoundationsOFMachineLearning/Attachments/dual_problem.png",
-    "FoundationsOFMachineLearning/References/support_vector_machines_succinctly.pdf.crdownload",
     "Pasted image 20240912143725.png",
-    "FoundationsOFMachineLearning/Attachments",
     "FoundationsOFMachineLearning/Attachments/entropy.png",
-    "FoundationsOFMachineLearning/2. ClassificationAlgorithms",
-    "FoundationsOFMachineLearning/References/EthemAlpaydin-IntroductiontoMachineLearning.pdf",
     "AdvancedComputerNetworks/Attachments/acn_throughput_example.png",
-    "acn_throughput_example.png",
-    "FoundationsOFMachineLearning/References/Ethem Alpaydin-Introduction to Machine Learning-The MIT Press (2014).pdf",
-    "AdvancedDataStructures/References/probabilityAndComputing.pdf",
-    "AdvancedDataStructures/References/\n",
-    "AdvancedComputerNetworks/References/ComputerNetworksSystemsApproach.pdf"
+    "acn_throughput_example.png"
   ]
 }

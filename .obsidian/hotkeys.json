@@ -1,10 +1,19 @@
 {
   "editor:delete-paragraph": [],
-  "workspace:close": [],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
   "switcher:open": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "O"
     }
