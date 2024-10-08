@@ -7,7 +7,7 @@
 	- [TCP Congestion control](https://tcpcc.systemsapproach.org/)
 	- [Private 5G](https://5g.systemsapproach.org/)
 
-### 2. References Specific to chapters
+### 2. References Specific to topics
 #### 2.1. Network Introduction
 - [Brief History of Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)
 - [A short history of Internet](https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet?authuser=1)
@@ -25,3 +25,10 @@
 #### 2.4 CDN
 - Netflix AWS servies [AWS re:Invent Part 2](https://www.youtube.com/watch?v=-mL3zT1iIKw) [AWS re:invent part 2](https://www.youtube.com/watch?v=95nfMj4PVDA) [Netflix CDN](https://www.youtube.com/watch?v=tbqcsHg-Q_o)
 - [Netflix Open connect](./Papers/Open-Connect-Overview.pdf)
+### 2.5 Anycast routing
+- [Anycast networking in Cloudflare](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
+- [IPv6 Addressing Architecture RFC](https://datatracker.ietf.org/doc/html/rfc4291)
+- [Information RFC on host anycasting service](https://datatracker.ietf.org/doc/html/rfc1546)
+### 2.6 BIND 9
+- [Admin reference manual](https://kb.isc.org/docs/aa-01031) Refer Section 8.5 for statistics
+- 

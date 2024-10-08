@@ -5,3 +5,5 @@
 - Positive semi definite function
 	- [Definition of positive definite](https://www.svm-tutorial.com/2016/09/unconstrained-minimization/)
 	- [Stack exchange reference](https://math.stackexchange.com/questions/1704131/convexity-hessian-matrix-and-positive-semidefinite-matrix#:~:text=The%20determinant%20of%20the%20first,and%20the%20function%20is%20convex.)
+- Bias variance trade-off : [video](https://www.youtube.com/watch?v=FcXQKsZKRUs)
+- Gradient boost statquest: [video](https://www.youtube.com/watch?v=2xudPOBz-vs)
