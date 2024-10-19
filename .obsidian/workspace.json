@@ -13,22 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FoundationsOFMachineLearning/2.4 Ensemble Classifiers.md",
+                "file": "AdvancedComputerNetworks/3.3 Transport Layer - TCP.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "3.3 Transport Layer - TCP"
             }
           },
           {
-            "id": "183453289a0a0504",
+            "id": "0ef0ebb894170338",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FoundationsOFMachineLearning/References/References.md",
+                "file": "AdvancedComputerNetworks/2.5 Application Layer - DNS.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2.5 Application Layer - DNS"
             }
           }
         ]
@@ -51,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -66,15 +72,16 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e649f3eaf7365fb5",
@@ -90,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FoundationsOFMachineLearning/2.4 Ensemble Classifiers.md",
+                "file": "SoftwareDefinedNetworking/1.1 Software defined networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +105,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.1 Software defined networks"
             }
           },
           {
@@ -107,10 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FoundationsOFMachineLearning/2.4 Ensemble Classifiers.md",
+                "file": "SoftwareDefinedNetworking/1.1 Software defined networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.1 Software defined networks"
             }
           },
           {
@@ -121,7 +132,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -130,8 +143,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FoundationsOFMachineLearning/2.4 Ensemble Classifiers.md"
-              }
+                "file": "SoftwareDefinedNetworking/1.1 Software defined networks.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.1 Software defined networks"
             }
           }
         ]
@@ -150,6 +165,34 @@
   },
   "active": "a4012db359e762a5",
   "lastOpenFiles": [
+    "AdvancedComputerNetworks/3.2 Transport Layer - Reliable data transfer.md",
+    "AdvancedComputerNetworks/3.3 Transport Layer - TCP.md",
+    "AdvancedComputerNetworks/3.1 Transport Layer.md",
+    "AdvancedComputerNetworks/2.5 Application Layer - DNS.md",
+    "AdvancedComputerNetworks/2.6 Application Layer - P2P and CDN.md",
+    "SoftwareDefinedNetworking/References.md",
+    "AdvancedComputerNetworks/2.3 Socket API references.md",
+    "SoftwareDefinedNetworking/Ryu/2. Getting started.md",
+    "SoftwareDefinedNetworking/Prequsites.md",
+    "SoftwareDefinedNetworking/1.1 Software defined networks.md",
+    "SoftwareDefinedNetworking/Ryu/1. Ryu SDN controller installation.md",
+    "SoftwareDefinedNetworking/Papers/road_to_sdn.pdf",
+    "SoftwareDefinedNetworking/Papers/Road to SDN.pdf",
+    "Road to SDN.pdf",
+    "SoftwareDefinedNetworking/Papers/sdn_comprehensive_review.pdf",
+    "SoftwareDefinedNetworking/Papers/Digital_Twin_Networks_A_Survey.pdf",
+    "SoftwareDefinedNetworking/Papers/Building_a_Digital_Twin_Network_of_SDN_Using_Knowledge_Graphs.pdf",
+    "SoftwareDefinedNetworking/Mininet",
+    "SoftwareDefinedNetworking/Ryu",
+    "SoftwareDefinedNetworking/Ryu.md",
+    "AdvancedComputerNetworks/2.2 Application Layer - HTTP.md",
+    "AdvancedComputerNetworks/References/References.md",
+    "AdvancedComputerNetworks/1.4 Evaluating Network Performance.md",
+    "AdvancedComputerNetworks/1.1 Introduction to Computer Networks.md",
+    "AdvancedComputerNetworks/Attachments/tcp_segment.png",
+    "AdvancedComputerNetworks/Attachments/tcp_closing_connection.png",
+    "AdvancedComputerNetworks/Attachments/tcp_three_way_handshake.png",
+    "AdvancedDataStructures/1.4 Red Black Trees.md",
     "FoundationsOFMachineLearning/References/References.md",
     "FoundationsOFMachineLearning/2.4 Ensemble Classifiers.md",
     "FoundationsOFMachineLearning/2.3 Support Vector Machines.md",
@@ -159,42 +202,14 @@
     "Algorithms/Math.md",
     "Algorithms/Dynamic Programming Algorithms.md",
     "Algorithms/Greedy algorithms.md",
-    "AdvancedDataStructures/2.1 Divide and Conquer.md",
-    "AdvancedComputerNetworks/3.1 Transport Layer.md",
-    "AdvancedComputerNetworks/2.6 Application Layer - P2P and CDN.md",
-    "AdvancedComputerNetworks/2.5 Application Layer - DNS.md",
-    "AdvancedDataStructures/1.4 Red Black Trees.md",
-    "AdvancedComputerNetworks/References/References.md",
     "AdvancedComputerNetworks/References/Papers/Open-Connect-Overview.pdf",
-    "AdvancedComputerNetworks/2.2 Application Layer - HTTP.md",
-    "FoundationsOFMachineLearning/2.2 Naive Bayes Classifier.md",
-    "FoundationsOFMachineLearning/2.1 Classification - KNN & Decision Trees.md",
-    "AdvancedComputerNetworks/2.4. Application Layer - Email.md",
-    "AdvancedComputerNetworks/2.1 Network Application Architecture.md",
-    "AdvancedComputerNetworks/1.4 Evaluating Network Performance.md",
-    "AdvancedComputerNetworks/1.3 Network Core.md",
-    "AdvancedComputerNetworks/1.2 Network Edge and Physical media.md",
-    "AdvancedComputerNetworks/1.1 Introduction to Computer Networks.md",
-    "AdvancedComputerNetworks/2.3 Socket API references.md",
-    "Doubts.md",
     "AdvancedComputerNetworks/Attachments/Papers",
-    "Attachments",
-    "AdvancedComputerNetworks/References/Papers/Open-Connect-Overview.pdf.crdownload",
-    "AdvancedComputerNetworks/References/Papers",
-    "AdvancedComputerNetworks/References/Papers/mockapetris-dns-sigcomm88.pdf",
-    "AdvancedComputerNetworks/References/mockapetris-dns-sigcomm88.pdf.crdownload",
-    "SoftwareDefinedNetworking/Papers/Digital_Twin_Networks_A_Survey.pdf",
-    "SoftwareDefinedNetworking/Papers/Digital_Twin_Networks_A_Survey.pdf.crdownload",
-    "SoftwareDefinedNetworking/Papers/sdn_comprehensive_review.pdf",
     "AdvancedDataStructures/Attachments/masters_theorem.png",
     "FoundationsOFMachineLearning/Attachments/hessian_matrix.png",
     "FoundationsOFMachineLearning/Attachments/rbf_kernel.png",
     "FoundationsOFMachineLearning/Attachments/kernel_svm_opt_fn.png",
     "FoundationsOFMachineLearning/Attachments/soft_margin_opt_fn.png",
     "FoundationsOFMachineLearning/Attachments/dual_problem.png",
-    "Pasted image 20240912143725.png",
-    "FoundationsOFMachineLearning/Attachments/entropy.png",
-    "AdvancedComputerNetworks/Attachments/acn_throughput_example.png",
-    "acn_throughput_example.png"
+    "Pasted image 20240912143725.png"
   ]
 }

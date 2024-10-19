@@ -6,6 +6,7 @@
 	- [Software Defined Networking](https://sdn.systemsapproach.org/)
 	- [TCP Congestion control](https://tcpcc.systemsapproach.org/)
 	- [Private 5G](https://5g.systemsapproach.org/)
+- Computer Networks Top down approach [companion website](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
 
 ### 2. References Specific to topics
 #### 2.1. Network Introduction
@@ -19,7 +20,7 @@
 	- [Raw sockets open source for you](https://www.opensourceforu.com/2015/03/a-guide-to-using-raw-sockets/) 
 #### 2.3 HTTP
 - [HTTP 1.1 drawbacks](https://www.tunetheweb.com/blog/why-do-we-need-http2/)
-- [Core Web vitals](https://web.dev/articles/vitals) : Official website
+- [Core Web vitals](https://developers.google.com/search/docs/appearance/core-web-vitals) : Official website
 - [Core Web vitals explained](https://almanac.httparchive.org/en/2022/performance) 
 - [High performance browser networking](https://hpbn.co/)
 #### 2.4 CDN
