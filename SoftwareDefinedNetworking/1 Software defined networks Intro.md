@@ -6,7 +6,7 @@
 - The interface to configure each device varies, this makes it complex to configure a large network with multiple devices
 - #TODO What are some examples for configuring a network device?
 
-#### 1.2 How does SDN address the issue of managing networks?
+#### 1.2 Approach in SDN 
 - Separate control plane and data plane
 - Consolidate control plane, such that control plane manages multiple data planes using a **Southbound API** (example: Open Flow)
 - **What is a control plane and data plane?**
@@ -35,10 +35,10 @@
 	- Approach: Logically centralized control plane and data plane communicate through a standard API
 - **Open flow and Network OS**
 	- **Open flow** switch contains Table of packet handling rules 
-		- Rule pattern: compare the first bits of the packet and rule pattern, if patter matches apply the rule action
-		- Rule action: action performed on packet(example: drop, forward, flood, send to controller)
-		- Counters: To tract number of bytes and packets 
-		- Priority: Each rule will have a priority to prevent ambiguity when two patterns match
+		- **Rule pattern:** compare the first bits of the packet and rule pattern, if patter matches apply the rule action
+		- **Rule action:** action performed on packet(example: drop, forward, flood, send to controller)
+		- **Counters:** To tract number of bytes and packets 
+		- **Priority:** Each rule will have a priority to prevent ambiguity when two patterns match
 	- What happens when a packet reaches a open flow switch
 		- Match the bits of the packet with the rules
 		- If multiple rules match, perform the action of the highest priority rule
