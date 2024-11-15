@@ -1,6 +1,7 @@
 {
   "textFontFamily": "JetBrainsMono Nerd Font,JetBrainsMono Nerd Font Mono",
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "baseFontSizeAction": false,
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian"
 }

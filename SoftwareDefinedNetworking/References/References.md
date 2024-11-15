@@ -18,6 +18,9 @@
 - [Ryu official doc tutorials](https://ryu.readthedocs.io/en/latest/writing_ryu_app.html)
 - [Openvswitch Arch Linux installation](https://wiki.archlinux.org/title/Open_vSwitch)
 - [Discover topology using Ryu](https://github.com/Ehsan70/RyuApps/blob/master/TopoDiscoveryInRyu.md)
+- [Ryu Packet library reference](https://osrg.github.io/ryu-book/en/html/packet_lib.html)
+- Reference for specific problems
+	- [Get all port description of a switch](https://sourceforge.net/p/ryu/mailman/message/35381262/)
 
 ### 3. Open flow specifications
 - [Open flow specifications list](https://opennetworking.org/software-defined-standards/specifications/)
